@@ -1,0 +1,6 @@
+.env
+.venv/
+venv/
+.idea/
+__pycache__/
+scrape_errors.log
